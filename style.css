@@ -1,0 +1,18 @@
+.alpha{
+     text-align: center;
+    margin: 0 auto;
+    flex-wrap: wrap;
+    
+}
+.img1{
+    margin-top: 200px;
+    flex-wrap: wrap;
+
+}
+#apple,#ant,#banana,#butterfly{
+    height: 50px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: italic;
+    background-color: yellow;
+
+}
