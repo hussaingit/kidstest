@@ -54,3 +54,11 @@ var i = h.toUpperCase()
 
 
 
+function consonant () {
+    
+var word = prompt("Enter word or sentence")
+ 
+                
+    alert (word.replace(/[aeiouAEIOu]/g, "") )
+
+}
